@@ -1,0 +1,20 @@
+body   
+{
+    margin: 0;
+    padding: 0;
+}
+#target
+{
+    height: 100px;
+    width: 100px;
+    position: absolute;
+    left:20%;
+    top: 20%;
+}
+
+#target img
+{
+    height: 100%;
+    width: 100%;
+
+}
